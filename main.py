@@ -1,4 +1,4 @@
-from src.simulation import Simulation
+from simulation import Simulation
 
 def main():
     print("Welcome to Auto Driving Car Simulation!\n")
