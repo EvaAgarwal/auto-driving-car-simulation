@@ -20,7 +20,7 @@ def main():
         elif choice == "2":
             simulation.run()
         elif choice == "3":
-            print("Thank you for running the simulation. Goodbye!")
+            print("Thank you for running the simulation. byebye!")
             break
         else:
             print("Invalid choice. Please try again.")
