@@ -24,3 +24,5 @@ class Car:
     def rotate_right(self):
         idx = (self.DIRECTIONS.index(self.direction) + 1) % 4
         self.direction = self.DIRECTIONS[idx]
+
+
