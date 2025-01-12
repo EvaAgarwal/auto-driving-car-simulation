@@ -6,7 +6,7 @@ def main():
     simulation = Simulation(width, height)
 
     while True:
-        print("\nPlease choose from the following options:")
+        print("\nPlease choose from the following options : ")
         print("[1] Add a car to field")
         print("[2] Run simulation")
         print("[3] Exit")
