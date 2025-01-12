@@ -52,6 +52,7 @@ class Simulation:
                         other_car = other_info['car']
                         if other_car == car:  # Skip self-check
                             continue
+                            
                         if car.x == other_car.x and car.y == other_car.y:
                             print(f"Collision: {car.name} collided with {other_car.name} at step {steps}.")
                             return
