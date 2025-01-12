@@ -17,5 +17,6 @@ class TestCar(unittest.TestCase):
         car.rotate_right()
         self.assertEqual(car.direction, "E")
 
+
 if __name__ == "__main__":
     unittest.main()
