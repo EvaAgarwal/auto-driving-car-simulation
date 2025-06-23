@@ -13,3 +13,7 @@ Features:
 7) Simulate all cars step by step, detecting and handling collisions.
 8) View the final positions or collisions of all cars.
 
+
+![undefined](https://github.com/user-attachments/assets/be5548ca-ac20-4fd3-ab20-df63a469be30)
+
+
